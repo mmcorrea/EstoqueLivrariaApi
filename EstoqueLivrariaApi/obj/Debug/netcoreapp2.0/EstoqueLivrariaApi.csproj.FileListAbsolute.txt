@@ -1,0 +1,11 @@
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\bin\Debug\netcoreapp2.0\EstoqueLivrariaApi.deps.json
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\bin\Debug\netcoreapp2.0\EstoqueLivrariaApi.runtimeconfig.json
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\bin\Debug\netcoreapp2.0\EstoqueLivrariaApi.runtimeconfig.dev.json
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\bin\Debug\netcoreapp2.0\EstoqueLivrariaApi.dll
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\obj\Debug\netcoreapp2.0\EstoqueLivrariaApi.csprojResolveAssemblyReference.cache
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\obj\Debug\netcoreapp2.0\EstoqueLivrariaApi.csproj.CoreCompileInputs.cache
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\obj\Debug\netcoreapp2.0\EstoqueLivrariaApi.AssemblyInfoInputs.cache
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\obj\Debug\netcoreapp2.0\EstoqueLivrariaApi.AssemblyInfo.cs
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\bin\Debug\netcoreapp2.0\EstoqueLivrariaApi.pdb
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\obj\Debug\netcoreapp2.0\EstoqueLivrariaApi.dll
+C:\Projetos\EstoqueLivrariaApi\EstoqueLivrariaApi\obj\Debug\netcoreapp2.0\EstoqueLivrariaApi.pdb
